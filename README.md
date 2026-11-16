@@ -3,6 +3,10 @@ BrbLib (general functions), BrbVc4 (functions for VC4), BrbVc2d (functions to dr
 
 Useable for AS4.9 - AS4.12 and AS6.x
 
+Its published under MIT license (see License.txt).
+
+Hinweis / Notice: Please read the Disclaimer / Haftungsausschluss at the end of this README before using this software.
+
 ## Table of Contents
 * [Introduction BrbLib](#Introduction_BrbLib)
 * [Introduction BrbLibVc4](#Introduction_BrbLibVc4)
